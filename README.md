@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![wakatime](https://wakatime.com/badge/user/2db4ff5c-5ced-489e-bec3-8a1b9b8df36c.svg)](https://wakatime.com/@2db4ff5c-5ced-489e-bec3-8a1b9b8df36c)
-![github](https://img.shields.io/github/followers/samixgroup?logo=github&style=plastic)](https://github.com/samixgroup?tab=followers)
+[![wakatime](https://wakatime.com/badge/user/2db4ff5c-5ced-489e-bec3-8a1b9b8df36c.svg)](https://wakatime.com/@2db4ff5c-5ced-489e-bec3-8a1b9b8df36c)
+[![github](https://img.shields.io/github/followers/samixgroup?logo=github&style=plastic)](https://github.com/samixgroup?tab=followers)
 
 - 🔭 I’m currently working at [https://uzinfocom.uz](UZINFOCOM SI)
 - 💬 Ask me about PHP, Python
