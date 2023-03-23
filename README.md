@@ -7,4 +7,4 @@
 - 💬 Ask me about PHP, Python
 - 📫 How to reach me: [@samandar_murodjonov](https://t.me/samandar_murodjonov) or the same username on Instagram
 
-I'm 20 y.o. and really passionated to contribute to open-source
+I'm 21 y.o. and really passionated to contribute to open-source
