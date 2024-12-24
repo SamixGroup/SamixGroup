@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently studying at [Kookmin University](https://kookmin.ac.kr)
 - 💬 Ask me about PHP, Python (going to switch to JS/TS btw)
-- 📫 How to reach me: [@samandar_murodjonov](https://t.me/samandar_murodjonov) or the same username on Instagram
+- 📫 How to reach me: [@LeftOnReadBot](https://t.me/leftonreadbot)
 
-I'm 21 y.o. and really passionated to contribute to open-source
+I'm 22 y.o. and really passionate about contributing to open-source
